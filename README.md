@@ -23,3 +23,6 @@ python3 main.py
 
 ## Data Visualization
 Run `Data Visualization.ipynb` notebok to visualize important stats abot text dataset
+
+
+All the output files will be stored in `output` folder
