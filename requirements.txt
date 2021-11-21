@@ -1,1 +1,8 @@
 emoji
+cufflinks
+wordcloud
+scattertext
+spacy
+spellchecker
+kaleido
+textblob
